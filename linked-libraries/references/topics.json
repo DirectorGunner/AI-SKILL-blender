@@ -1,0 +1,689 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Fbx, Node Wrangler, Basic Usage",
+      "file": "references/fbx.md",
+      "summary": "Reference: Fbx, Node Wrangler, Basic Usage.",
+      "keywords": [
+        "fbx-node-wrangler-basic-usage",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Creating Meta Rigs, Application Templates",
+      "file": "references/creating-meta-rigs.md",
+      "summary": "Reference: Creating Meta Rigs, Application Templates.",
+      "keywords": [
+        "creating-meta-rigs-application-templates",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Command Line Arguments, Creating A Static Extensions Repository, How To Create Extensions",
+      "file": "references/command-line-arguments.md",
+      "summary": "Reference: Command Line Arguments, Creating A Static Extensions Repository, How To Create Extensions.",
+      "keywords": [
+        "command-line-arguments-creating-a-static-extensions-repository-how-to-create-extensions",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Add On Tutorial, Bone Collections",
+      "file": "references/add-on-tutorial.md",
+      "summary": "Reference: Add On Tutorial, Bone Collections.",
+      "keywords": [
+        "add-on-tutorial-bone-collections",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Pose Library, Follow Track Constraint, Markers, Movie Clip Node ...",
+      "file": "references/pose-library.md",
+      "summary": "Reference: Pose Library, Follow Track Constraint, Markers, Movie Clip Node ....",
+      "keywords": [
+        "pose-library-follow-track-constraint-markers-movie-clip-node",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Writing Style Guide, Documenting New Features And Changes, Style Guide, Asset Browser",
+      "file": "references/writing-style-guide.md",
+      "summary": "Reference: Writing Style Guide, Documenting New Features And Changes, Style Guide, Asset Browser.",
+      "keywords": [
+        "writing-style-guide-documenting-new-features-and-changes-style-guide-asset-browser",
+        "reference"
+      ]
+    },
+    {
+      "topic": "File Browser, Editing Outliner Data, Interface, Usage ...",
+      "file": "references/file-browser.md",
+      "summary": "Reference: File Browser, Editing Outliner Data, Interface, Usage ....",
+      "keywords": [
+        "file-browser-editing-outliner-data-interface-usage",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Editing, File Paths, Save Load, Opening Saving ...",
+      "file": "references/editing.md",
+      "summary": "Reference: Editing, File Paths, Save Load, Opening Saving ....",
+      "keywords": [
+        "editing-file-paths-save-load-opening-saving",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Data Blocks, Introduction",
+      "file": "references/data-blocks.md",
+      "summary": "Reference: Data Blocks, Introduction.",
+      "keywords": [
+        "data-blocks-introduction",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Library Overrides, Link Append",
+      "file": "references/library-overrides.md",
+      "summary": "Reference: Library Overrides, Link Append.",
+      "keywords": [
+        "library-overrides-link-append",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Blender S History",
+      "file": "references/blender-s-history.md",
+      "summary": "Reference: Blender S History.",
+      "keywords": [
+        "blender-s-history",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Configuring Peripherals, Help System, Data Properties, Editing Nodes",
+      "file": "references/configuring-peripherals.md",
+      "summary": "Reference: Configuring Peripherals, Help System, Data Properties, Editing Nodes.",
+      "keywords": [
+        "configuring-peripherals-help-system-data-properties-editing-nodes",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Node Groups, Node Editors, Reroute Node, Node Bundles ...",
+      "file": "references/node-groups.md",
+      "summary": "Reference: Node Groups, Node Editors, Reroute Node, Node Bundles ....",
+      "keywords": [
+        "node-groups-node-editors-reroute-node-node-bundles",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Topbar, Curve Pen, Attributes, Geometry To Instance Node ...",
+      "file": "references/topbar.md",
+      "summary": "Reference: Topbar, Curve Pen, Attributes, Geometry To Instance Node ....",
+      "keywords": [
+        "topbar-curve-pen-attributes-geometry-to-instance-node",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Extrude To Cursor, Extrude Region, Common Modifier Options, Array Legacy Modifier ...",
+      "file": "references/extrude-to-cursor.md",
+      "summary": "Reference: Extrude To Cursor, Extrude Region, Common Modifier Options, Array Legacy Modifier ....",
+      "keywords": [
+        "extrude-to-cursor-extrude-region-common-modifier-options-array-legacy-modifier",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Assignment, Script Node, Collections, Duplicate ...",
+      "file": "references/assignment.md",
+      "summary": "Reference: Assignment, Script Node, Collections, Duplicate ....",
+      "keywords": [
+        "assignment-script-node-collections-duplicate",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Transfer Mesh Data, Transfer Mesh Data Layout, Collection, Instancing ...",
+      "file": "references/transfer-mesh-data.md",
+      "summary": "Reference: Transfer Mesh Data, Transfer Mesh Data Layout, Collection, Instancing ....",
+      "keywords": [
+        "transfer-mesh-data-transfer-mesh-data-layout-collection-instancing",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Bmesh Operators Bmesh Ops (part 1)",
+      "file": "references/bmesh-operators-bmesh-ops.md",
+      "summary": "Reference: Bmesh Operators Bmesh Ops (part 1).",
+      "keywords": [
+        "bmesh-operators-bmesh-ops-part-1",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Bmesh Operators Bmesh Ops (part 2)",
+      "file": "references/bmesh-operators-bmesh-ops-2.md",
+      "summary": "Reference: Bmesh Operators Bmesh Ops (part 2).",
+      "keywords": [
+        "bmesh-operators-bmesh-ops-part-2",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Bmesh Operators Bmesh Ops (part 3)",
+      "file": "references/bmesh-operators-bmesh-ops-3.md",
+      "summary": "Reference: Bmesh Operators Bmesh Ops (part 3).",
+      "keywords": [
+        "bmesh-operators-bmesh-ops-part-3",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Application Handlers Bpy App Handlers, Console Operators, Ed Operators",
+      "file": "references/application-handlers-bpy-app-handlers.md",
+      "summary": "Reference: Application Handlers Bpy App Handlers, Console Operators, Ed Operators.",
+      "keywords": [
+        "application-handlers-bpy-app-handlers-console-operators-ed-operators",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Export Scene Operators (part 1)",
+      "file": "references/export-scene-operators.md",
+      "summary": "Reference: Export Scene Operators (part 1).",
+      "keywords": [
+        "export-scene-operators-part-1",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Export Scene Operators (part 2)",
+      "file": "references/export-scene-operators-2.md",
+      "summary": "Reference: Export Scene Operators (part 2).",
+      "keywords": [
+        "export-scene-operators-part-2",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Grease Pencil Operators (part 1)",
+      "file": "references/grease-pencil-operators.md",
+      "summary": "Reference: Grease Pencil Operators (part 1).",
+      "keywords": [
+        "grease-pencil-operators-part-1",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Grease Pencil Operators (part 2)",
+      "file": "references/grease-pencil-operators-2.md",
+      "summary": "Reference: Grease Pencil Operators (part 2).",
+      "keywords": [
+        "grease-pencil-operators-part-2",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Grease Pencil Operators (part 3)",
+      "file": "references/grease-pencil-operators-3.md",
+      "summary": "Reference: Grease Pencil Operators (part 3).",
+      "keywords": [
+        "grease-pencil-operators-part-3",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Node Operators (part 1)",
+      "file": "references/node-operators.md",
+      "summary": "Reference: Node Operators (part 1).",
+      "keywords": [
+        "node-operators-part-1",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Node Operators (part 2)",
+      "file": "references/node-operators-2.md",
+      "summary": "Reference: Node Operators (part 2).",
+      "keywords": [
+        "node-operators-part-2",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Node Operators (part 3)",
+      "file": "references/node-operators-3.md",
+      "summary": "Reference: Node Operators (part 3).",
+      "keywords": [
+        "node-operators-part-3",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Node Operators (part 4)",
+      "file": "references/node-operators-4.md",
+      "summary": "Reference: Node Operators (part 4).",
+      "keywords": [
+        "node-operators-part-4",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Object Operators (part 1)",
+      "file": "references/object-operators.md",
+      "summary": "Reference: Object Operators (part 1).",
+      "keywords": [
+        "object-operators-part-1",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Object Operators (part 2)",
+      "file": "references/object-operators-2.md",
+      "summary": "Reference: Object Operators (part 2).",
+      "keywords": [
+        "object-operators-part-2",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Object Operators (part 3)",
+      "file": "references/object-operators-3.md",
+      "summary": "Reference: Object Operators (part 3).",
+      "keywords": [
+        "object-operators-part-3",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Object Operators (part 4)",
+      "file": "references/object-operators-4.md",
+      "summary": "Reference: Object Operators (part 4).",
+      "keywords": [
+        "object-operators-part-4",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Object Operators (part 5)",
+      "file": "references/object-operators-5.md",
+      "summary": "Reference: Object Operators (part 5).",
+      "keywords": [
+        "object-operators-part-5",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Object Operators (part 6)",
+      "file": "references/object-operators-6.md",
+      "summary": "Reference: Object Operators (part 6).",
+      "keywords": [
+        "object-operators-part-6",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Object Operators (part 7)",
+      "file": "references/object-operators-7.md",
+      "summary": "Reference: Object Operators (part 7).",
+      "keywords": [
+        "object-operators-part-7",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Outliner Operators",
+      "file": "references/outliner-operators.md",
+      "summary": "Reference: Outliner Operators.",
+      "keywords": [
+        "outliner-operators",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Scene Operators",
+      "file": "references/scene-operators.md",
+      "summary": "Reference: Scene Operators.",
+      "keywords": [
+        "scene-operators",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Sequencer Operators (part 1)",
+      "file": "references/sequencer-operators.md",
+      "summary": "Reference: Sequencer Operators (part 1).",
+      "keywords": [
+        "sequencer-operators-part-1",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Sequencer Operators (part 2)",
+      "file": "references/sequencer-operators-2.md",
+      "summary": "Reference: Sequencer Operators (part 2).",
+      "keywords": [
+        "sequencer-operators-part-2",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Sequencer Operators (part 3)",
+      "file": "references/sequencer-operators-3.md",
+      "summary": "Reference: Sequencer Operators (part 3).",
+      "keywords": [
+        "sequencer-operators-part-3",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Sequencer Operators (part 4)",
+      "file": "references/sequencer-operators-4.md",
+      "summary": "Reference: Sequencer Operators (part 4).",
+      "keywords": [
+        "sequencer-operators-part-4",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Sequencer Operators (part 5)",
+      "file": "references/sequencer-operators-5.md",
+      "summary": "Reference: Sequencer Operators (part 5).",
+      "keywords": [
+        "sequencer-operators-part-5",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Wm Operators (part 1)",
+      "file": "references/wm-operators.md",
+      "summary": "Reference: Wm Operators (part 1).",
+      "keywords": [
+        "wm-operators-part-1",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Wm Operators (part 2)",
+      "file": "references/wm-operators-2.md",
+      "summary": "Reference: Wm Operators (part 2).",
+      "keywords": [
+        "wm-operators-part-2",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Wm Operators (part 3)",
+      "file": "references/wm-operators-3.md",
+      "summary": "Reference: Wm Operators (part 3).",
+      "keywords": [
+        "wm-operators-part-3",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Wm Operators (part 4)",
+      "file": "references/wm-operators-4.md",
+      "summary": "Reference: Wm Operators (part 4).",
+      "keywords": [
+        "wm-operators-part-4",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Wm Operators (part 5)",
+      "file": "references/wm-operators-5.md",
+      "summary": "Reference: Wm Operators (part 5).",
+      "keywords": [
+        "wm-operators-part-5",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Wm Operators (part 6)",
+      "file": "references/wm-operators-6.md",
+      "summary": "Reference: Wm Operators (part 6).",
+      "keywords": [
+        "wm-operators-part-6",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Wm Operators (part 7)",
+      "file": "references/wm-operators-7.md",
+      "summary": "Reference: Wm Operators (part 7).",
+      "keywords": [
+        "wm-operators-part-7",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Wm Operators (part 8)",
+      "file": "references/wm-operators-8.md",
+      "summary": "Reference: Wm Operators (part 8).",
+      "keywords": [
+        "wm-operators-part-8",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Wm Operators (part 9)",
+      "file": "references/wm-operators-9.md",
+      "summary": "Reference: Wm Operators (part 9).",
+      "keywords": [
+        "wm-operators-part-9",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Workspace Operators, Assetbrowser Ul Metadata Tags Uilist, Blenddatalibraries Bpy Prop Collection, Blendimportcontext Bpy Struct ...",
+      "file": "references/workspace-operators.md",
+      "summary": "Reference: Workspace Operators, Assetbrowser Ul Metadata Tags Uilist, Blenddatalibraries Bpy Prop Collection, Blendimportcontext Bpy Struct ....",
+      "keywords": [
+        "workspace-operators-assetbrowser-ul-metadata-tags-uilist-blenddatalibraries-bpy-prop-collection-blendimportcontext-bpy-struct",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Collection Id, Collectionchildren Bpy Prop Collection, Collectionobjects Bpy Prop Collection, Curves Ul Attributes Uilist ...",
+      "file": "references/collection-id.md",
+      "summary": "Reference: Collection Id, Collectionchildren Bpy Prop Collection, Collectionobjects Bpy Prop Collection, Curves Ul Attributes Uilist ....",
+      "keywords": [
+        "collection-id-collectionchildren-bpy-prop-collection-collectionobjects-bpy-prop-collection-curves-ul-attributes-uilist",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Filehandler Bpy Struct, Gpencil Ul Annotation Layer Uilist, Gpencil Ul Matslots Uilist, Grease Pencil Ul Attributes Uilist ...",
+      "file": "references/filehandler-bpy-struct.md",
+      "summary": "Reference: Filehandler Bpy Struct, Gpencil Ul Annotation Layer Uilist, Gpencil Ul Matslots Uilist, Grease Pencil Ul Attributes Uilist ....",
+      "keywords": [
+        "filehandler-bpy-struct-gpencil-ul-annotation-layer-uilist-gpencil-ul-matslots-uilist-grease-pencil-ul-attributes-uilist",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Id Bpy Struct, Idmaterials Bpy Prop Collection, Idoverridelibrary Bpy Struct, Image Ul Render Slots Uilist ...",
+      "file": "references/id-bpy-struct.md",
+      "summary": "Reference: Id Bpy Struct, Idmaterials Bpy Prop Collection, Idoverridelibrary Bpy Struct, Image Ul Render Slots Uilist ....",
+      "keywords": [
+        "id-bpy-struct-idmaterials-bpy-prop-collection-idoverridelibrary-bpy-struct-image-ul-render-slots-uilist",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Keymaps Bpy Prop Collection, Library Id, Macro Bpy Struct, Mask Ul Layers Uilist",
+      "file": "references/keymaps-bpy-prop-collection.md",
+      "summary": "Reference: Keymaps Bpy Prop Collection, Library Id, Macro Bpy Struct, Mask Ul Layers Uilist.",
+      "keywords": [
+        "keymaps-bpy-prop-collection-library-id-macro-bpy-struct-mask-ul-layers-uilist",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Material Id, Material Ul Matslots Uilist, Materialslot Bpy Struct",
+      "file": "references/material-id.md",
+      "summary": "Reference: Material Id, Material Ul Matslots Uilist, Materialslot Bpy Struct.",
+      "keywords": [
+        "material-id-material-ul-matslots-uilist-materialslot-bpy-struct",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Menu Bpy Struct, Mesh Ul Attributes Uilist, Mesh Ul Color Attributes Uilist, Mesh Ul Color Attributes Selector Uilist ...",
+      "file": "references/menu-bpy-struct.md",
+      "summary": "Reference: Menu Bpy Struct, Mesh Ul Attributes Uilist, Mesh Ul Color Attributes Uilist, Mesh Ul Color Attributes Selector Uilist ....",
+      "keywords": [
+        "menu-bpy-struct-mesh-ul-attributes-uilist-mesh-ul-color-attributes-uilist-mesh-ul-color-attributes-selector-uilist",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Node Bpy Struct, Nodelink Bpy Struct, Nodelinks Bpy Prop Collection",
+      "file": "references/node-bpy-struct.md",
+      "summary": "Reference: Node Bpy Struct, Nodelink Bpy Struct, Nodelinks Bpy Prop Collection.",
+      "keywords": [
+        "node-bpy-struct-nodelink-bpy-struct-nodelinks-bpy-prop-collection",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Nodetree Id, Nodetreeinterfacesocket Nodetreeinterfaceitem",
+      "file": "references/nodetree-id.md",
+      "summary": "Reference: Nodetree Id, Nodetreeinterfacesocket Nodetreeinterfaceitem.",
+      "keywords": [
+        "nodetree-id-nodetreeinterfacesocket-nodetreeinterfaceitem",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Object Id (part 1)",
+      "file": "references/object-id.md",
+      "summary": "Reference: Object Id (part 1).",
+      "keywords": [
+        "object-id-part-1",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Object Id (part 2)",
+      "file": "references/object-id-2.md",
+      "summary": "Reference: Object Id (part 2).",
+      "keywords": [
+        "object-id-part-2",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Operator Bpy Struct",
+      "file": "references/operator-bpy-struct.md",
+      "summary": "Reference: Operator Bpy Struct.",
+      "keywords": [
+        "operator-bpy-struct",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Panel Bpy Struct, Particle Ul Particle Systems Uilist, Physics Ul Dynapaint Surfaces Uilist, Pointcloud Ul Attributes Uilist ...",
+      "file": "references/panel-bpy-struct.md",
+      "summary": "Reference: Panel Bpy Struct, Particle Ul Particle Systems Uilist, Physics Ul Dynapaint Surfaces Uilist, Pointcloud Ul Attributes Uilist ....",
+      "keywords": [
+        "panel-bpy-struct-particle-ul-particle-systems-uilist-physics-ul-dynapaint-surfaces-uilist-pointcloud-ul-attributes-uilist",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Renderengine Bpy Struct, Scene Ul Gltf2 Filter Action Uilist, Scene Ul Keying Set Paths Uilist, Spacenodeeditorpath Bpy Prop Collection",
+      "file": "references/renderengine-bpy-struct.md",
+      "summary": "Reference: Renderengine Bpy Struct, Scene Ul Gltf2 Filter Action Uilist, Scene Ul Keying Set Paths Uilist, Spacenodeeditorpath Bpy Prop Collection.",
+      "keywords": [
+        "renderengine-bpy-struct-scene-ul-gltf2-filter-action-uilist-scene-ul-keying-set-paths-uilist-spacenodeeditorpath-bpy-prop-collection",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Spaceoutliner Space, Stripelement Bpy Struct, Stripelements Bpy Prop Collection, Texture Ul Texpaintslots Uilist ...",
+      "file": "references/spaceoutliner-space.md",
+      "summary": "Reference: Spaceoutliner Space, Stripelement Bpy Struct, Stripelements Bpy Prop Collection, Texture Ul Texpaintslots Uilist ....",
+      "keywords": [
+        "spaceoutliner-space-stripelement-bpy-struct-stripelements-bpy-prop-collection-texture-ul-texpaintslots-uilist",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Uilist Bpy Struct",
+      "file": "references/uilist-bpy-struct.md",
+      "summary": "Reference: Uilist Bpy Struct.",
+      "keywords": [
+        "uilist-bpy-struct",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Usdhook Bpy Struct, Userassetlibrary Bpy Struct, Userpref Ul Asset Libraries Uilist, Userpref Ul Extension Repos Uilist ...",
+      "file": "references/usdhook-bpy-struct.md",
+      "summary": "Reference: Usdhook Bpy Struct, Userassetlibrary Bpy Struct, Userpref Ul Asset Libraries Uilist, Userpref Ul Extension Repos Uilist ....",
+      "keywords": [
+        "usdhook-bpy-struct-userassetlibrary-bpy-struct-userpref-ul-asset-libraries-uilist-userpref-ul-extension-repos-uilist",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Volume Ul Grids Uilist, Workspace Ul Addons Items Uilist, Utilities Bpy Utils, Property Override Flag Collection Items ...",
+      "file": "references/volume-ul-grids-uilist.md",
+      "summary": "Reference: Volume Ul Grids Uilist, Workspace Ul Addons Items Uilist, Utilities Bpy Utils, Property Override Flag Collection Items ....",
+      "keywords": [
+        "volume-ul-grids-uilist-workspace-ul-addons-items-uilist-utilities-bpy-utils-property-override-flag-collection-items",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Gpu Module Gpu",
+      "file": "references/gpu-module-gpu.md",
+      "summary": "Reference: Gpu Module Gpu.",
+      "keywords": [
+        "gpu-module-gpu",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Api Reference Usage, Best Practice",
+      "file": "references/api-reference-usage.md",
+      "summary": "Reference: Api Reference Usage, Best Practice.",
+      "keywords": [
+        "api-reference-usage-best-practice",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Contribute Documentation, File Paths String Encoding, Api Overview",
+      "file": "references/contribute-documentation.md",
+      "summary": "Reference: Contribute Documentation, File Paths String Encoding, Api Overview.",
+      "keywords": [
+        "contribute-documentation-file-paths-string-encoding-api-overview",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Quickstart",
+      "file": "references/quickstart.md",
+      "summary": "Reference: Quickstart.",
+      "keywords": [
+        "quickstart",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Tips And Tricks",
+      "file": "references/tips-and-tricks.md",
+      "summary": "Reference: Tips And Tricks.",
+      "keywords": [
+        "tips-and-tricks",
+        "reference"
+      ]
+    }
+  ]
+}

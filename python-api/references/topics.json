@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Appendices, Linux, Macos, Windows ...",
+      "file": "references/appendices.md",
+      "summary": "Reference: Appendices, Linux, Macos, Windows ....",
+      "keywords": [
+        "appendices-linux-macos-windows",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Transform Pivot Point, Median Point, Object Modes, Viewpoint ...",
+      "file": "references/transform-pivot-point.md",
+      "summary": "Reference: Transform Pivot Point, Median Point, Object Modes, Viewpoint ....",
+      "keywords": [
+        "transform-pivot-point-median-point-object-modes-viewpoint",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Toolbar, Viewport Gizmos, Dope Sheet Overlays, Info Editor ...",
+      "file": "references/toolbar.md",
+      "summary": "Reference: Toolbar, Viewport Gizmos, Dope Sheet Overlays, Info Editor ....",
+      "keywords": [
+        "toolbar-viewport-gizmos-dope-sheet-overlays-info-editor",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Introduction, Sequencer Preview, Stl, About Free Software And The Gpl ...",
+      "file": "references/introduction.md",
+      "summary": "Reference: Introduction, Sequencer Preview, Stl, About Free Software And The Gpl ....",
+      "keywords": [
+        "introduction-sequencer-preview-stl-about-free-software-and-the-gpl",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Erase Tool, Trim Tool, Pen, Sculpting Brushes ...",
+      "file": "references/erase-tool.md",
+      "summary": "Reference: Erase Tool, Trim Tool, Pen, Sculpting Brushes ....",
+      "keywords": [
+        "erase-tool-trim-tool-pen-sculpting-brushes",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Curve Pen, Bridge Edge Loops, Extrude Edges, Rotate Edge ...",
+      "file": "references/curve-pen.md",
+      "summary": "Reference: Curve Pen, Bridge Edge Loops, Extrude Edges, Rotate Edge ....",
+      "keywords": [
+        "curve-pen-bridge-edge-loops-extrude-edges-rotate-edge",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Rip Vertices, Rip Vertices And Extend, Rip Vertices And Fill, By Attribute ...",
+      "file": "references/rip-vertices.md",
+      "summary": "Reference: Rip Vertices, Rip Vertices And Extend, Rip Vertices And Fill, By Attribute ....",
+      "keywords": [
+        "rip-vertices-rip-vertices-and-extend-rip-vertices-and-fill-by-attribute",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Volume To Mesh Modifier, Weld Modifier, Weighted Normal Modifier, Cloth Modifier ...",
+      "file": "references/volume-to-mesh-modifier.md",
+      "summary": "Reference: Volume To Mesh Modifier, Weld Modifier, Weighted Normal Modifier, Cloth Modifier ....",
+      "keywords": [
+        "volume-to-mesh-modifier-weld-modifier-weighted-normal-modifier-cloth-modifier",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Numeric Input, Rotate, Scale, Scale Cage ...",
+      "file": "references/numeric-input.md",
+      "summary": "Reference: Numeric Input, Rotate, Scale, Scale Cage ....",
+      "keywords": [
+        "numeric-input-rotate-scale-scale-cage",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Paint, Plane, Pose, Density ...",
+      "file": "references/paint.md",
+      "summary": "Reference: Paint, Plane, Pose, Density ....",
+      "keywords": [
+        "paint-plane-pose-density",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Transforms, Selection Visibility, Editing Texture Paint Colors, Symmetry ...",
+      "file": "references/transforms.md",
+      "summary": "Reference: Transforms, Selection Visibility, Editing Texture Paint Colors, Symmetry ....",
+      "keywords": [
+        "transforms-selection-visibility-editing-texture-paint-colors-symmetry",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Path Utilities Bpy Path, Bpy Prop Array, Bpy Prop Collection Idprop, Bpy Extras Submodule Bpy Extras Id Map Utils ...",
+      "file": "references/path-utilities-bpy-path.md",
+      "summary": "Reference: Path Utilities Bpy Path, Bpy Prop Array, Bpy Prop Collection Idprop, Bpy Extras Submodule Bpy Extras Id Map Utils ....",
+      "keywords": [
+        "path-utilities-bpy-path-bpy-prop-array-bpy-prop-collection-idprop-bpy-extras-submodule-bpy-extras-id-map-utils",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Context Mode Items, Curve Fit Method Items, Curve Normal Mode Items, Curves Handle Type Items ...",
+      "file": "references/context-mode-items.md",
+      "summary": "Reference: Context Mode Items, Curve Fit Method Items, Curve Normal Mode Items, Curves Handle Type Items ....",
+      "keywords": [
+        "context-mode-items-curve-fit-method-items-curve-normal-mode-items-curves-handle-type-items",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Freestyle Chaining Iterators Freestyle Chainingiterators, Freestyle Module Freestyle, Gpu Matrix Utilities Gpu Matrix, Gpu Select Utilities Gpu Select ...",
+      "file": "references/freestyle-chaining-iterators-freestyle-chainingiterators.md",
+      "summary": "Reference: Freestyle Chaining Iterators Freestyle Chainingiterators, Freestyle Module Freestyle, Gpu Matrix Utilities Gpu Matrix, Gpu Select Utilities Gpu Select ....",
+      "keywords": [
+        "freestyle-chaining-iterators-freestyle-chainingiterators-freestyle-module-freestyle-gpu-matrix-utilities-gpu-matrix-gpu-select-utilities-gpu-select",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Geometry Utilities Mathutils Geometry, Interpolation Utilities Mathutils Interpolate, Kdtree Utilities Mathutils Kdtree",
+      "file": "references/geometry-utilities-mathutils-geometry.md",
+      "summary": "Reference: Geometry Utilities Mathutils Geometry, Interpolation Utilities Mathutils Interpolate, Kdtree Utilities Mathutils Kdtree.",
+      "keywords": [
+        "geometry-utilities-mathutils-geometry-interpolation-utilities-mathutils-interpolate-kdtree-utilities-mathutils-kdtree",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Noise Utilities Mathutils Noise",
+      "file": "references/noise-utilities-mathutils-noise.md",
+      "summary": "Reference: Noise Utilities Mathutils Noise.",
+      "keywords": [
+        "noise-utilities-mathutils-noise",
+        "reference"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Scalable Vector Graphics Svg, Feature Sets, Rigify, Basic ...",
+      "file": "references/scalable-vector-graphics-svg.md",
+      "summary": "Reference: Scalable Vector Graphics Svg, Feature Sets, Rigify, Basic ....",
+      "keywords": [
+        "scalable-vector-graphics-svg-feature-sets-rigify-basic",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Get Extensions, Introduction, Importing Exporting Files, Stanford Ply ...",
+      "file": "references/get-extensions.md",
+      "summary": "Reference: Get Extensions, Introduction, Importing Exporting Files, Stanford Ply ....",
+      "keywords": [
+        "get-extensions-introduction-importing-exporting-files-stanford-ply",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Editing Vertex Paint Colors, Shrinkwrap Modifier, Vertex Weight Angle Modifier, Vertex Weight Proximity Modifier ...",
+      "file": "references/editing-vertex-paint-colors.md",
+      "summary": "Reference: Editing Vertex Paint Colors, Shrinkwrap Modifier, Vertex Weight Angle Modifier, Vertex Weight Proximity Modifier ....",
+      "keywords": [
+        "editing-vertex-paint-colors-shrinkwrap-modifier-vertex-weight-angle-modifier-vertex-weight-proximity-modifier",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Curve Structure, Draw, Curve Properties, Edge Slide ...",
+      "file": "references/curve-structure.md",
+      "summary": "Reference: Curve Structure, Draw, Curve Properties, Edge Slide ....",
+      "keywords": [
+        "curve-structure-draw-curve-properties-edge-slide",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Subdivide, Subdivide Edge Ring, Extrude Faces, Extrude Faces Along Normals ...",
+      "file": "references/subdivide.md",
+      "summary": "Reference: Subdivide, Subdivide Edge Ring, Extrude Faces, Extrude Faces Along Normals ....",
+      "keywords": [
+        "subdivide-subdivide-edge-ring-extrude-faces-extrude-faces-along-normals",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Editing Normals, Snap To Symmetry, Split, Symmetrize ...",
+      "file": "references/editing-normals.md",
+      "summary": "Reference: Editing Normals, Snap To Symmetry, Split, Symmetrize ....",
+      "keywords": [
+        "editing-normals-snap-to-symmetry-split-symmetrize",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Mesh Analysis, Vertex Groups Panel, Vertex Weights, Select All By Trait ...",
+      "file": "references/mesh-analysis.md",
+      "summary": "Reference: Mesh Analysis, Vertex Groups Panel, Vertex Weights, Select All By Trait ....",
+      "keywords": [
+        "mesh-analysis-vertex-groups-panel-vertex-weights-select-all-by-trait",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Smooth Laplacian Modifier, Data Transfer Modifier, Vertex Weight Edit Modifier, Vertex Weight Mix Modifier ...",
+      "file": "references/smooth-laplacian-modifier.md",
+      "summary": "Reference: Smooth Laplacian Modifier, Data Transfer Modifier, Vertex Weight Edit Modifier, Vertex Weight Mix Modifier ....",
+      "keywords": [
+        "smooth-laplacian-modifier-data-transfer-modifier-vertex-weight-edit-modifier-vertex-weight-mix-modifier",
+        "reference"
+      ]
+    },
+    {
+      "topic": "View, Collisions, Field Weights, Settings ...",
+      "file": "references/view.md",
+      "summary": "Reference: View, Collisions, Field Weights, Settings ....",
+      "keywords": [
+        "view-collisions-field-weights-settings",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Hinge Constraint, Motor Constraint, Piston Constraint, Point Constraint ...",
+      "file": "references/hinge-constraint.md",
+      "summary": "Reference: Hinge Constraint, Motor Constraint, Piston Constraint, Point Constraint ....",
+      "keywords": [
+        "hinge-constraint-motor-constraint-piston-constraint-point-constraint",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Cursor, Stroke, Density Brush, Navigating In Paint Modes ...",
+      "file": "references/cursor.md",
+      "summary": "Reference: Cursor, Stroke, Density Brush, Navigating In Paint Modes ....",
+      "keywords": [
+        "cursor-stroke-density-brush-navigating-in-paint-modes",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Dyntopo, Remesh, Symmetry, Edit Face Set ...",
+      "file": "references/dyntopo.md",
+      "summary": "Reference: Dyntopo, Remesh, Symmetry, Edit Face Set ....",
+      "keywords": [
+        "dyntopo-remesh-symmetry-edit-face-set",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Collection Operators, Extensions Operators, Fluid Operators, Gpencil Operators ...",
+      "file": "references/collection-operators.md",
+      "summary": "Reference: Collection Operators, Extensions Operators, Fluid Operators, Gpencil Operators ....",
+      "keywords": [
+        "collection-operators-extensions-operators-fluid-operators-gpencil-operators",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Script Operators, Spreadsheet Operators, Surface Operators, Text Editor Operators ...",
+      "file": "references/script-operators.md",
+      "summary": "Reference: Script Operators, Spreadsheet Operators, Surface Operators, Text Editor Operators ....",
+      "keywords": [
+        "script-operators-spreadsheet-operators-surface-operators-text-editor-operators",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Operator Context Items, Operator Property Tag Items, Operator Type Flag Items, Property String Search Flag Items ...",
+      "file": "references/operator-context-items.md",
+      "summary": "Reference: Operator Context Items, Operator Property Tag Items, Operator Type Flag Items, Property String Search Flag Items ....",
+      "keywords": [
+        "operator-context-items-operator-property-tag-items-operator-type-flag-items-property-string-search-flag-items",
+        "reference"
+      ]
+    }
+  ]
+}
